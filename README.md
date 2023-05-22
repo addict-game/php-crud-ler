@@ -2,6 +2,11 @@
 Web koneksi dengan database MySQL menggunakan PHP
 
 ## Database
-- Menggunakan MySQL dengan XAMPP.
-- Sesuaikan database, path, directory, ataupun query untuk menggunakan kode ini.
+- MySQL menggunakan XAMPP.
+
+## Use
+- Sesuaikan database. 
+- Sesuaikan path.
+- Sesuaikan directory. 
+- Sesuaikan query.
 
