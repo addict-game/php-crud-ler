@@ -10,3 +10,5 @@ Web koneksi dengan database MySQL menggunakan PHP
 - Sesuaikan directory. 
 - Sesuaikan query.
 
+## Message
+Happy Coding! Telegram : @Mif_OS
